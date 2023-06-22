@@ -2,6 +2,9 @@
 package main
 
 // define an author type with a name
+// author struct {
+
+// }
 //
 
 // define a book type with a title and author
